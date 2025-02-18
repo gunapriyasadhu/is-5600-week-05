@@ -1,4 +1,3 @@
-// orders.js
 const cuid = require('cuid')
 
 const db = require('./db')
